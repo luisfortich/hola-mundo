@@ -1,2 +1,1 @@
-Hola
-Adios
+Estudio DAM en modo semipresencial en Abastos
